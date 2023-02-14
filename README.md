@@ -1,15 +1,2 @@
-# Bu bir ödev dosyasıdır!
+#Insider - Kodluyoruz Front-End Web Devoloper Bootcamp
 
-
-## Alt Bilgi
-qweqweqwe
-qwe
-qwe
-qwe
-qweqweqweqwe
-qeqwe
-[lorem impusm](https://google.com)
-qeqweqweqw
-qwıejqwoıjeqoıwjeqwoıjeqoıwjeqw
-qweqweqwqweqwe
-eqweqwe
